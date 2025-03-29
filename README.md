@@ -18,4 +18,6 @@ This project implements a small demo Graph Convolutional Network (GCN) to classi
 .
 ├── gcn_karate.ipynb      # Jupyter notebook with full implementation
 ├── models/               # Directory to save trained models
+├── requirements.txt      # Python dependencies
 └── README.md             # Project overview
+
